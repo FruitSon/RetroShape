@@ -1,0 +1,14 @@
+id,name,age,gender,wrist_width,x,y,physical_pin,visual_pin,type,response
+,,,,,,,,,,
+1,qqqqq,qqqq,qqqqq,40,216,814,2,92,d,1
+2,qqqqq,qqqq,qqqqq,40,238,910,2,103,d,0
+3,qqqqq,qqqq,qqqqq,40,312,682,2,92,d,1
+4,qqqqq,qqqq,qqqqq,40,328,902,2,103,d,0
+5,qqqqq,qqqq,qqqqq,40,257,718,2,92,d,1
+6,qqqqq,qqqq,qqqqq,40,296,909,2,103,d,0
+7,qqqqq,qqqq,qqqqq,40,204,686,2,96,d,1
+8,qqqqq,qqqq,qqqqq,40,366,890,2,103,d,1
+9,qqqqq,qqqq,qqqqq,40,569,762,2,110,d,1
+10,qqqqq,qqqq,qqqqq,40,461,903,2,117,d,0
+11,qqqqq,qqqq,qqqqq,40,192,854,2,110,d,1
+12,qqqqq,qqqq,qqqqq,40,349,709,2,117,d,1

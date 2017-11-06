@@ -1,0 +1,16 @@
+id,name,age,gender,wrist_width,physical_pin,haptic_x,haptic_y,visual_x,visual_y,dist,trial_id,expected_ans,ans
+0,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,438,687,600,842,224,1,1,
+1,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,466,933,466,933,224,1,1,1
+2,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,581,677,598,978,301,2,1,
+3,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,519,878,519,878,301,2,1,2
+4,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,595,663,600,964,301,3,1,
+5,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,218,742,218,742,301,3,1,2
+6,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,489,763,489,763,224,4,2,
+7,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,254,685,448,572,224,4,2,2
+8,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,573,658,573,658,301,5,2,
+9,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,352,728,599,899,301,5,2,1
+10,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,206,902,506,879,301,6,1,
+11,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,358,720,358,720,301,6,1,2
+12,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,250,892,250,892,224,7,2,
+13,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,585,656,600,880,224,7,2,2
+14,xcSZczxcz,xcSZczxcz,xcSZczxcz,38.0,29,501,823,501,823,301,8,2,

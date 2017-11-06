@@ -1,0 +1,4 @@
+id,name,age,gender,wrist_width,physical_pin,haptic_x,haptic_y,visual_x,visual_y,dist,trial_id,expected_ans,ans
+0,bsj7,25,M,44.0,80,577,733,238,976,417,1,1,
+1,bsj7,25,M,44.0,80,185,691,185,691,417,1,1,2
+2,bsj7,25,M,44.0,80,224,874,224,874,417,2,2,
